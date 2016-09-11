@@ -83,6 +83,10 @@ Use case ends.
 2. Should be able to hold up to 1000 persons.
 3. Should come with automated unit tests and open source code.
 4. Should favor DOS style commands over Unix-style commands.
+5. Should have a better user interface
+6. Should be able to optionally fill in personal infomation
+7. Should have data validation check (e.g. valid phone number)
+8. Should have pin for entering the address book
 
 ## Appendix D : Glossary
 
